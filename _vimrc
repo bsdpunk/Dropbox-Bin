@@ -1,0 +1,14 @@
+set backspace=indent,eol,start
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+syntax on
+set clipboard+=unnamed
+set hidden
+set number
+set showmatch
+set autoindent
+set smartindent
+set smarttab
+colorscheme neverland
